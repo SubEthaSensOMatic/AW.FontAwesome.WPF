@@ -1,11 +1,11 @@
-# wpf.fontawesome5
-With **wpf.fontawesome5** you can use the popular icon library FontAwesome 5.12.0 within your WPF applications.
+# AW.FontAwesome.WPF
+With **AW.FontAwesome.WPF** you can use the popular icon library FontAwesome 6.3.0 within your .NET7 WPF applications.
 
 ## Installation
 You can download source and build project on your own or install package via nuget
 
 ```PowerShell
-PM> Install-Package wpf.fontawesome5
+PM> Install-Package AW.FontAwesome.WPF
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ First define namespace in your xaml file:
 <UserControl x:Class="My.Awesome.View"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:fa="http://schemas.fontawesome.com/wpf">
+    xmlns:fa="http://schemas.aw.fontawesome.wpf">
 
   ...
   
