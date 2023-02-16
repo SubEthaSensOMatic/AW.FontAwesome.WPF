@@ -1,0 +1,1 @@
+dotnet pack --output .\Build\Packages\Debug --configuration Debug --force --include-source
